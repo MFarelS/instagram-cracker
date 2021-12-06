@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding=utf-8
-# Author: fall.xavier
+# Author: root#1697
 # Tool Instaram
 # Versi 0.1
 
