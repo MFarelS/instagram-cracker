@@ -202,7 +202,7 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
-	print(" [*] Email       : MEDALSTORE X ROXANNE ZETSU")
+	print(" [*] Email       : github.com/r00tlol")
 	print(" [*] Bergabung   : %s"%(tgl))
 	print(" [*] ---------------------------------------------")
 	print(" [*] Status      : %sPREMIUM%s"% (H,N))
@@ -210,9 +210,9 @@ def menu_dev():
 	print(" [*] ---------------------------------------------")
 	print(" [*] IP          : %s\n"%(IP))
 	print(" [ SELAMAT DATANG %sUSER PREMIUM%s ]\n"%(K,N))
-	print(" [01]. CRACK DARI AKUN PUBLIK")
-	print(" [02]. CRACK DARI PENCARIAN")
-	print(" [03]. CEK HASIL AKUN CRACK")
+	print(" [01]. CRACK DARI AKUN PUBLIK / crack from public account")
+	print(" [02]. CRACK DARI PENCARIAN / crack from searc")
+	print(" [03]. CEK HASIL AKUN CRACK / check cracked account")
 	print(" [%s00%s]. LOGOUT (HAPUS LOGIN)"%(M,N))
 	pil = raw_input("\n [?] PILIH MENU : ")
 	limit = ("100000")
